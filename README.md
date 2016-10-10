@@ -1,2 +1,2 @@
 # init Repo
-# minesweeper
+# chess
